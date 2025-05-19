@@ -44,7 +44,9 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 </p>
----
+
+<br/>
+
 <h3 align="center">🛠️ Tools & Databases</h3>
 
 <p align="center">
@@ -114,15 +116,20 @@
 
 <h2 align="center">🙏 Thank You for Visiting!</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79A32&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+amazing!+🚀" alt="Typing Footer"/>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Thanks animation" />
 </p>
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79A32&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+amazing!+🚀" alt="Typing Footer"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2czZqZzZycXlnY3Bxcjh4M3NnODUxdmFiYXBkdmE5NnY3YjlhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif" width="220" alt="Anime waving gif"/>
+</p>
+
+<p align="center">
+  <em>“I have no enemy.” – Thors - Vinland Saga</em>
 </p>
 
