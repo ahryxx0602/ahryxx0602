@@ -12,13 +12,14 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍💼 **Name:** Phan Van Thanh  
-- 🎓 **3rd-year IT student at Duy Tan University**  
-- 🎂 **Date of Birth:** February 6, 2004  
-- 💻 **Career Goal:** Fullstack Web Developer  
-- 📚 **Currently focusing on enhancing Web Development skills**  
-- ❤️ **Passionate about:** Designing modern interfaces, building efficient backends, and creating smooth user experiences  
-- 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community
+-🧑‍💼 Name: Phan Van Thanh
+-🎂 Date of Birth: February 6, 2004
+-📍 Location: Vietnam
+-🎓 3rd-year IT student at Duy Tan University
+-💻 Career Goal: Fullstack Web Developer
+-📚 Currently focusing on enhancing Web Development skills
+-❤️ Passionate about: Designing modern interfaces, building efficient backends, and creating smooth user experiences
+-🚀 Objective: To become a skilled developer capable of building practical and meaningful products for the community
 
 ---
 
