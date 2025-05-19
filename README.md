@@ -1,8 +1,10 @@
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #00CED1;">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&color=F79A32&center=true&vCenter=true&width=600&lines=Hi+there!!" alt="Nothing" />
+<img src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='40'>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='24' fill='#F79A32' font-family='Fira Code'>Hi there!!</text>
+</svg>" alt="Hi there!!" />
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+space!" alt="Typing SVG" />
 </p>
