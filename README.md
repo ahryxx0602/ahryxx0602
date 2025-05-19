@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!;Sharing+my+projects+%2C+learning+and+growth+in+Web+Development" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!;I'm+a+Web+Development+enthusiast+👨‍💻;Currently+exploring+Java,+React,+and+Spring+Boot!+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
