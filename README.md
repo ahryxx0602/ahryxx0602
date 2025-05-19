@@ -52,7 +52,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/ahryxx0602" target="https://github.com/ahryxx0602">
+  <a href="https://github.com/ahryxx0602" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -67,7 +67,17 @@
   <a href="https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/" target="_blank">
     <img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:phvanthanh06@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/gmail.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:redcream2004@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/gmail.png" alt="Email 2"/>
+  </a>
 </p>
+
+
 
 ---
 
