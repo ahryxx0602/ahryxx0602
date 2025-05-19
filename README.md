@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!" alt="Typing SVG" />
 
 ✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
 🛠️ Focused on Web Development — both frontend and backend.  
