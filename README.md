@@ -1,22 +1,63 @@
+# 👋 Xin chào! Welcome to my GitHub profile!
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vanthanh.phan.75286/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahryxx._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/) 
+Chào mừng bạn đã ghé thăm không gian nhỏ của mình trên GitHub!  
+Tại đây mình lưu trữ những dự án, hành trình học tập và phát triển kỹ năng lập trình mỗi ngày.
 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊GitHub Stats :
+---
+
+## 👨‍💻 About Me
+
+- 🧑‍💼 **Tên:** Phan Văn Thành  
+- 🎓 **Sinh viên năm 3 ngành CNTT tại Đại học Duy Tân**  
+- 🎂 **Ngày sinh:** 06/02/2004  
+- 💻 **Định hướng:** Fullstack Web Developer  
+- 📚 **Hiện đang học và tập trung phát triển kỹ năng Web Development**  
+- ❤️ **Yêu thích:** Xây dựng giao diện đẹp mắt, backend hiệu quả và trải nghiệm người dùng mượt mà  
+- 🚀 **Mục tiêu:** Trở thành một lập trình viên giỏi, có thể tạo ra sản phẩm thực tế phục vụ cộng đồng
+
+---
+
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vanthanh.phan.75286/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahryxx._/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/)
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahryxx0602&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=false&layout=compact)
 
-## 🏆GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ahryxx0602&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+---
 
-### 😂Random Dev Meme
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+---
+
+### 😂 Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ahryxx0602&icon=0&color=0)](https://visitcount.itsvg.in)
