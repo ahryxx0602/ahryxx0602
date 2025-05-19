@@ -1,5 +1,5 @@
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #00CED1;">
-  Hi there!
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Hi there!!" alt="" />
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
 </p>
