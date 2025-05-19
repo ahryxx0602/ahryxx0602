@@ -1,19 +1,17 @@
-# 👋 Xin chào! Welcome to my GitHub profile!
-
-Chào mừng bạn đã ghé thăm không gian nhỏ của mình trên GitHub!  
-Tại đây mình lưu trữ những dự án, hành trình học tập và phát triển kỹ năng lập trình mỗi ngày.
+Welcome to my little corner on GitHub!  
+Here, I share my projects, learning journey, and continuous growth in software development.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧑‍💼 **Tên:** Phan Văn Thành  
-- 🎓 **Sinh viên năm 3 ngành CNTT tại Đại học Duy Tân**  
-- 🎂 **Ngày sinh:** 06/02/2004  
-- 💻 **Định hướng:** Fullstack Web Developer  
-- 📚 **Hiện đang học và tập trung phát triển kỹ năng Web Development**  
-- ❤️ **Yêu thích:** Xây dựng giao diện đẹp mắt, backend hiệu quả và trải nghiệm người dùng mượt mà  
-- 🚀 **Mục tiêu:** Trở thành một lập trình viên giỏi, có thể tạo ra sản phẩm thực tế phục vụ cộng đồng
+- 🧑‍💼 **Name:** Phan Van Thanh  
+- 🎓 **3rd-year Information Technology student at Duy Tan University**  
+- 🎂 **Date of Birth:** February 6, 2004  
+- 💻 **Career Goal:** Fullstack Web Developer  
+- 📚 **Currently focusing on enhancing Web Development skills**  
+- ❤️ **Passionate about:** Designing modern interfaces, building efficient backends, and creating smooth user experiences  
+- 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community
 
 ---
 
