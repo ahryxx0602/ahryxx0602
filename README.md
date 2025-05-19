@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Phan+Van+Thanh.;Welcome+to+my+GitHub+profile.;Let%E2%80%99s+build+something+awesome+together!+💻" alt="Typing SVG" />
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!;Sharing+my+projects+%2C+learning+and+growth+in+Web+Development" alt="Typing SVG" />
 
 ---
 
