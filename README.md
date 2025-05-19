@@ -1,6 +1,6 @@
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #F79A32;">
-  #Hi there!
-      <br/>
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #00CED1;">
+  Hi there!
+  <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
 </p>
 <p align="center">
