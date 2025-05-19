@@ -1,7 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!" alt="Typing SVG" />
 
-✨ Here I share my projects, document my learning journey, and grow continuously as a developer.
-🛠️ Focused on Web Development.
+✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
+🛠️ Focused on Web Development.  
+🚀 Always exploring new technologies and best practices.  
+📈 Striving to turn ideas into real, impactful solutions.  
+🤝 Open to collaboration and knowledge sharing.
 
 ---
 
@@ -18,25 +21,46 @@
 ---
 
 ## 💻 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> </p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ahryxx0602" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/vanthanh.phan.75286/" target="_blank">
     <img src="https://img.icons8.com/fluency/30/facebook-new.png" alt="Facebook"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ahryxx._/" target="_blank">
     <img src="https://img.icons8.com/fluency/30/instagram-new.png" alt="Instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/" target="_blank">
     <img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn"/>
   </a>
