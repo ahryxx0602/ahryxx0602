@@ -14,12 +14,13 @@
 
 - 🧑‍💼 **Name:** Phan Van Thanh  
 - 🎂 **Date of Birth:** February 6, 2004  
-- 📍 **Location:** Vietnam  
+- 📍 **Location:** Thanh Khe, Da Nang, Vietnam  
 - 🎓 **3rd-year IT student at Duy Tan University**  
 - 💻 **Career Goal:** Fullstack Web Developer  
 - 📚 **Currently focusing on enhancing Web Development skills**  
 - ❤️ **Passionate about:** Designing modern interfaces, building efficient backends, and creating smooth user experiences  
-- 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community
+- 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community  
+- 📧 **Email:** [phvanthanh06@gmail.com](mailto:phvanthanh06@gmail.com) | [redcream2004@gmail.com](mailto:redcream2004@gmail.com)
 
 ---
 
@@ -68,13 +69,6 @@
     <img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:phvanthanh06@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/30/gmail.png" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:redcream2004@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/30/gmail.png" alt="Email 2"/>
-  </a>
 </p>
 
 
