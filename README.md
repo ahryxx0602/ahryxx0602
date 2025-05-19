@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 color="#1E90FF" >Hi there</h1>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there!" alt="Typing SVG" />
     <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand gif" />
 </p>
