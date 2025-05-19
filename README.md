@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&width=600&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=I'm+a+Fullstack+Developer!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=700&lines=Hi,+I'm+Phan+Văn+Thành;Fullstack+Developer+(Java+%2B+React);AI+and+Music+Project+Contributor;Open+Source+Lover+❤️" alt="Typing SVG" />
+
 
 
 ✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
