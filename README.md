@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=00CED1&width=700&lines=Hello+there!;Welcome+to+my+GitHub+profile.;Explore+my+projects+below." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFA07A&center=true&vCenter=true&width=700&lines=Chào+mừng+đến+với+GitHub+của+mình!;Mình+là+Thành,+Fullstack+Intern+(Java%2BReact);Rất+vui+được+gặp+bạn!" alt="Typing SVG" />
 
 
 
