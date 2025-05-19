@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 - 🧑‍💼 **Name:** Phan Van Thanh  
 - 🎂 **Date of Birth:** February 6, 2004  
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐 Socials
+<h2 align="center">🌐 Socials</h2>
 
 <p align="center">
   <a href="https://github.com/ahryxx0602" target="_blank">
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
@@ -102,15 +102,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ahryxx0602&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-### ✍️ Dev Quote
+### 
+<h2 align="center">✍️ Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
@@ -118,8 +112,17 @@
 
 ---
 
+<h2 align="center">🙏 Thank You for Visiting!</h2>
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ahryxx0602&icon=0&color=0" alt="Visit Count"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79A32&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+amazing!+🚀" alt="Typing Footer"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Thanks animation" />
+</p>
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</p>
+
