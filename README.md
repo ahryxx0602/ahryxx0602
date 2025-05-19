@@ -121,7 +121,4 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5nd3p6cGM4a2NmdWQyYWdocmVqa3JxY2cxdjljNHo1dG1qYmkycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" width="220" alt="Anime waving gif"/>
 </p>
 
-<p align="center">
-  <em>“I have no enemy.” – Thors - Vinland Saga</em>
-</p>
 
