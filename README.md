@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=00CED1&width=700&lines=Hello+there!;Welcome+to+my+GitHub+profile.;Explore+my+projects+below." alt="Typing SVG" />
-<div style="background: linear-gradient(to right, #ff9966, #ff5e62); padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+awesome+site!" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=I'm+Ahryxx!" alt="Typing SVG" />
 
 
 
