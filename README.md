@@ -20,7 +20,6 @@
 - 📚 **Currently focusing on enhancing Web Development skills**  
 - ❤️ **Passionate about:** Designing modern interfaces, building efficient backends, and creating smooth user experiences  
 - 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community  
-- 📧 **Email:** [phvanthanh06@gmail.com](mailto:phvanthanh06@gmail.com) | [redcream2004@gmail.com](mailto:redcream2004@gmail.com)
 
 ---
 
