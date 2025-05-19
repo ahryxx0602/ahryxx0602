@@ -1,5 +1,7 @@
-Welcome to my little corner on GitHub!  
-Here, I share my projects, learning journey, and continuous growth in software development.
+# 👋 Hey there! Welcome to my little corner on GitHub!
+
+✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
+🛠️ Focused on Web Development | 🚀 Passionate about building impactful products
 
 ---
 
