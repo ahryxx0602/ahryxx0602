@@ -1,13 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!;I'm+a+Web+Development+enthusiast+👨‍💻;Currently+exploring+Java,+React,+and+Spring+Boot!+🚀" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!" alt="Typing SVG" />
+
+✨ Here I share my projects, document my learning journey, and grow continuously as a developer.
+🛠️ Focused on Web Development.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🧑‍💼 **Name:** Phan Van Thanh  
-- 🎓 **3rd-year Information Technology student at Duy Tan University**  
+- 🎓 **3rd-year IT student at Duy Tan University**  
 - 🎂 **Date of Birth:** February 6, 2004  
 - 💻 **Career Goal:** Fullstack Web Developer  
 - 📚 **Currently focusing on enhancing Web Development skills**  
@@ -22,9 +23,24 @@
 ---
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vanthanh.phan.75286/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahryxx._/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/)
+
+<p align="left">
+  <a href="https://github.com/ahryxx0602" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/vanthanh.phan.75286/" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/facebook-new.png" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ahryxx._/" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/phan-v%C4%83n-th%C3%A0nh-959256311/" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
