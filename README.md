@@ -118,15 +118,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Thanks animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79A32&center=true&vCenter=true&width=435&lines=Let's+connect+and+build+something+amazing!+🚀" alt="Typing Footer"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR2czZqZzZycXlnY3Bxcjh4M3NnODUxdmFiYXBkdmE5NnY3YjlhOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif" width="220" alt="Anime waving gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5nd3p6cGM4a2NmdWQyYWdocmVqa3JxY2cxdjljNHo1dG1qYmkycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" width="220" alt="Anime waving gif"/>
 </p>
 
 <p align="center">
