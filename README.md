@@ -23,7 +23,9 @@
 
 ---
 
-## 💻 Language - Frameworks - Tools 
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">🧩 Languages & Frameworks</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
@@ -41,8 +43,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  &nbsp;&nbsp;
+</p>
+---
+<h3 align="center">🛠️ Tools & Databases</h3>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" height="40" alt="MySQL Workbench"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server Management Studio"/>
   &nbsp;&nbsp;
@@ -52,11 +60,8 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" height="40" alt="Postman"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/40/000000/mysql-logo.png" height="40" alt="MySQL Workbench"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
 </p>
-
 
 ---
 
