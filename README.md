@@ -1,10 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+corner+on+GitHub!" alt="Typing SVG" />
 
 ✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
-🛠️ Focused on Web Development.  
+🛠️ Focused on Web Development — both frontend and backend.  
 🚀 Always exploring new technologies and best practices.  
-📈 Striving to turn ideas into real, impactful solutions.  
-🤝 Open to collaboration and knowledge sharing.
+📈 Passionate about turning ideas into real, impactful solutions.  
+🤝 Open to collaboration, teamwork, and knowledge sharing.
+
+💼 I am currently seeking a **work-student position** in **backend development** where I can apply my programming skills, contribute to real-world projects, and deepen my expertise in backend technologies.
 
 ---
 
@@ -37,7 +39,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server Management Studio"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   &nbsp;&nbsp;
@@ -82,11 +84,6 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
----
-
-### 😂 Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
