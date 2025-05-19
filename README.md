@@ -4,30 +4,22 @@
 🛠️ Focused on Web Development — both frontend and backend.  
 🚀 Always exploring new technologies and best practices.  
 📈 Passionate about turning ideas into real, impactful solutions.  
-🤝 Open to collaboration, teamwork, and knowledge sharing.
+🤝 Open to collaboration, teamwork, and knowledge sharing.  
 
-💼 I am currently seeking a **work-student position** in **backend development** where I can apply my programming skills, contribute to real-world projects, and deepen my expertise in backend technologies.
+💼 I am currently seeking a **work-student position** in **backend development**, where I can apply my programming skills, contribute to real-world projects, and deepen my expertise in backend technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
--🧑‍💼 Name: Phan Van Thanh
-
--🎂 Date of Birth: February 6, 2004
-
--📍 Location: Vietnam
-
--🎓 3rd-year IT student at Duy Tan University
-
--💻 Career Goal: Fullstack Web Developer
-
--📚 Currently focusing on enhancing Web Development skills
-
--❤️ Passionate about: Designing modern interfaces, building efficient backends, and creating smooth user experiences
-
--🚀 Objective: To become a skilled developer capable of building practical and meaningful products for the community
-
+- 🧑‍💼 **Name:** Phan Van Thanh  
+- 🎂 **Date of Birth:** February 6, 2004  
+- 📍 **Location:** Vietnam  
+- 🎓 **3rd-year IT student at Duy Tan University**  
+- 💻 **Career Goal:** Fullstack Web Developer  
+- 📚 **Currently focusing on enhancing Web Development skills**  
+- ❤️ **Passionate about:** Designing modern interfaces, building efficient backends, and creating smooth user experiences  
+- 🚀 **Objective:** To become a skilled developer capable of building practical and meaningful products for the community
 
 ---
 
@@ -80,20 +72,35 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahryxx0602&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahryxx0602&theme=radical&hide_border=false" alt="Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ahryxx0602&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ahryxx0602&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ahryxx0602&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ahryxx0602&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</p>
