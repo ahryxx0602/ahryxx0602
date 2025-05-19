@@ -52,7 +52,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/ahryxx0602" target="_blank">
+  <a href="https://github.com/ahryxx0602" target="https://github.com/ahryxx0602">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
