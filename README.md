@@ -1,9 +1,24 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=00CED1&width=700&lines=Hello+there!;Welcome+to+my+GitHub+profile.;Explore+my+projects+below." alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=I'm+Ahryxx!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79A32&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+space!;I'm+Ahryxx+%F0%9F%91%8B;Fullstack+Developer+%7C+Java+%2B+React" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  ✨ I share my projects, document my learning journey, and grow continuously as a developer.  
+  <br/>
+  🛠️ Passionate about Fullstack Web Development — both frontend & backend.  
+  <br/>
+  🚀 Exploring new technologies and software best practices.  
+  <br/>
+  📈 Turning ideas into real, impactful solutions.  
+  <br/>
+  🤝 Open to collaboration, teamwork, and knowledge sharing.  
+</p>
 
+<p align="center">
+  💼 <strong>Currently seeking a work-student position</strong> in <strong>Backend Development</strong>, where I can apply my skills, contribute to real-world projects, and deepen my expertise.
+</p>
 
-
+<hr/>
 
 ✨ Here I share my projects, document my learning journey, and grow continuously as a developer.  
 🛠️ Focused on Web Development — both frontend and backend.  
