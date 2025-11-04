@@ -29,8 +29,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahryxx0602&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&layout=compact&theme=radical" height="150"/>
+  ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahryxx0602&theme=radical&hide_border=false" alt="Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
