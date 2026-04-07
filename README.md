@@ -60,15 +60,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Motto
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahryxx0602&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ahryxx0602&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=2000&color=185FA5&center=true&vCenter=true&width=600&lines=I+have+no+enemies." alt="Motto" />
 </p>
+
+---
+
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahryxx0602&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahryxx0602&theme=react-dark&hide_border=true&area=true&radius=6" alt="Activity Graph" />
 </p>
 
 ---
